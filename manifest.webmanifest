@@ -1,0 +1,9 @@
+{
+  "name":"Рыжий Том X — Super Edition",
+  "short_name":"Рыжий Том X",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#fff2d8",
+  "theme_color":"#ff9f43",
+  "lang":"ru"
+}
